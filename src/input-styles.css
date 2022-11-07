@@ -22,9 +22,14 @@ p {
 }
 
 form.formkit-form {
-    width: 100%;
+    width: 100% !important;
+}
 
-    div {
-        padding: 20px;
-    }
+.formkit-fields > div:nth-child(2) {
+    visibility: hidden;
+    height: 0;
+}
+
+.formkit-powered-by-convertkit-container {
+    display: none !important;
 }
