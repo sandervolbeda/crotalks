@@ -12,3 +12,19 @@ body {
     max-width: 1140px;
     margin: 0 auto;
 }
+
+a {
+    text-decoration: underline;
+}
+
+p {
+    margin-bottom: 8px;
+}
+
+form.formkit-form {
+    width: 100%;
+
+    div {
+        padding: 20px;
+    }
+}
