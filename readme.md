@@ -1,4 +1,4 @@
-#CRO talks
+#CRO talks (by [Sander Volbeda](https://sandervolbeda.com))
 
 Run the tailwind for the project
 
